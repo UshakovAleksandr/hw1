@@ -82,7 +82,7 @@ class Circle(Figure):
 
 
 def main():
-    triangle = Triangle("triangle", 3,  10, 10, 10)
+    triangle = Triangle("triangle", 3, 10, 10, 10)
     print(triangle.perimeter)
     print(triangle.area)
     rectangle = Rectangle("rectangle", 4, 10, 20)
